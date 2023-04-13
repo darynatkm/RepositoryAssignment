@@ -1,0 +1,8 @@
+{
+    "products": [
+      { "id": 1, "title": "prod1", "description": "prod1", "price": 10000, "img": "prod1.webp" },
+      { "id": 2, "title": "prod2", "description": "prod2", "price": 20000, "img": "prod2.webp" },
+      { "id": 3, "title": "prod3", "description": "prod3", "price": 30000, "img": "prod3.webp" }
+    ],
+    "cart": []
+  }

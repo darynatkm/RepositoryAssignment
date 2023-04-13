@@ -1,0 +1,13 @@
+.header {
+    padding: 20px 0;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    &-logo {
+        padding: 10px;
+        font-weight: bold;
+        background: #111217;
+        color: silver;
+    }
+}
